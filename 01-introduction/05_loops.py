@@ -1,6 +1,6 @@
 # HackerRank Problem: Arithmetic Operators
 # Topic: 01-introduction
-# File Name: 04_loops.py
+# File Name: 05_loops.py
 
 if __name__ == '__main__':
     n = int(input())
