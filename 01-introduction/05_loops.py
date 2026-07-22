@@ -1,4 +1,4 @@
-# HackerRank Problem: Arithmetic Operators
+# HackerRank Problem: Loops
 # Topic: 01-introduction
 # File Name: 05_loops.py
 

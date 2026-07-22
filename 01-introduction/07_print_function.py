@@ -1,4 +1,4 @@
-# HackerRank Problem: Arithmetic Operators
+# HackerRank Problem: Print Function
 # Topic: 01-introduction
 # File Name: 07_print_function.py
 

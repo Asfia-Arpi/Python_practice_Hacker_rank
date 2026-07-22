@@ -1,6 +1,6 @@
-# HackerRank Problem: Arithmetic Operators
+# HackerRank Problem: List Comprehensions
 # Topic: 02-Basic_data_types
-# File Name: 08_List_comprehension.py
+# File Name: 01_List_comprehension.py
 
 if __name__ == '__main__':
     x = int(input())

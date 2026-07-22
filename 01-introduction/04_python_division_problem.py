@@ -1,4 +1,4 @@
-# HackerRank Problem: Arithmetic Operators
+# HackerRank Problem: Python Division
 # Topic: 01-introduction
 # File Name: 04_python_division_problem.py
 if __name__ == '__main__':

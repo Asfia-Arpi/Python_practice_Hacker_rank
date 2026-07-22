@@ -1,4 +1,4 @@
-# HackerRank Problem: Arithmetic Operators
+# HackerRank Problem: Leap Year
 # Topic: 01-introduction
 # File Name: 06_leap_year_problem.py
 
