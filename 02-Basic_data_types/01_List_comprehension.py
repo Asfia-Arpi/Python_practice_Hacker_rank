@@ -1,5 +1,5 @@
 # HackerRank Problem: Arithmetic Operators
-# Topic: 01-introduction
+# Topic: 02-Basic_data_types
 # File Name: 08_List_comprehension.py
 
 if __name__ == '__main__':
